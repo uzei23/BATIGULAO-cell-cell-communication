@@ -1,0 +1,2 @@
+sender_cell,ligand,receiver_cell,receptor,interaction,signaling_pathway,expected_response,evidence_source
+Enteroendocrine K cell,GIP,Pancreatic beta cell,GIPR,GIP binds GIPR,"Gs -> adenylyl cyclase -> cAMP -> PKA/Epac2",Enhanced glucose-stimulated insulin secretion,"Literature; IntAct; OmniPath; STRING"
